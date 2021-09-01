@@ -9,7 +9,7 @@
 
 - Checkout my [LinkedIn](https://www.linkedin.com/in/smit-patel-0303/) 🖊️ .
 
-- My [Resume]() 📄 .
+- My [Resume](https://drive.google.com/file/d/1F2FgvQsUic7CFmYF8LTU-wUsu2UvIPGR/view?usp=sharing/) 📄 .
 
 <br/>
 
