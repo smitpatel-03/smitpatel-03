@@ -7,7 +7,7 @@
 
   Talking about my other hobbies, I love Working Out by my self 🏋️, learing about new business and <strong>teaching </strong>.
 
-- Checkout my [LinkedIn](www.linkedin.com/in/smit-patel-0303/) 🖊️ .
+- Checkout my [LinkedIn](https://www.linkedin.com/in/smit-patel-0303/) 🖊️ .
 
 - My [Resume]() 📄 .
 
