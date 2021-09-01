@@ -2,10 +2,10 @@
 
 <img src="code.gif" alt="Code GIF" align="right" width="400px" height="360px" style="margin-left: 10px">
 
-- Hey, I am Smit Patel, a intermediate developer searching for experience. I know that is usual that someone is asking for the work but i do every work with my heart and with perfection.
-- Some love the coding but i am passionate about the coding you know after some time love can be decrease but passion never.
+- Hey, I am Smit Patel, an intermediate developer searching new project and an intership. I know that is usual that someone is asking for the work but i do every work with my heart and with perfection.
+- Some people love the coding but i am passionate about the coding you know after some time love can be decrease but passion never.
 
-  Talking about my other hobbies, I love Working Out by my self 🏋️, learing about new business and teaching.
+  Talking about my other hobbies, I love Working Out by my self 🏋️, learing about new business and <strong>teaching </strong>.
 
 - Checkout my [LinkedIn](www.linkedin.com/in/smit-patel-0303/) 🖊️ .
 
