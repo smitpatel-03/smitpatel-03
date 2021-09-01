@@ -1,4 +1,4 @@
-<img src="./header2.png" width="100%">
+<img src="./header.png" width="100%">
 
 <img src="code.gif" alt="Code GIF" align="right" width="400px" height="360px" style="margin-left: 10px">
 
