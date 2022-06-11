@@ -1,5 +1,3 @@
-<img src="./header.png" width="100%">
-
 <img src="code.gif" alt="Code GIF" align="right" width="400px" height="360px" style="margin-left: 10px">
 
 - Hey, I am Smit Patel, an intermediate developer searching new project and an intership. I know that is usual that someone is asking for the work but i do every work with my heart and with perfection.
