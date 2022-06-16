@@ -1,14 +1,12 @@
 <img src="gif.gif" alt="Code GIF" align="right" width="400px" height="360px" style="margin-left: 10px">
-<br />
 
+<br/>
 - Hey, I am Smit Patel, an intermediate developer searching new project and an intership. I know that is usual that someone is asking for the work but i do every work with my heart and with perfection.
 - Some people love the coding but i am passionate about the coding you know after some time love can be decrease but passion never.
 
   Talking about my other hobbies, I love Working Out by my self 🏋️, learing about new business and <strong>teaching </strong>.
 
 - Checkout my [LinkedIn](https://www.linkedin.com/in/smit-patel-0303/) 🖊️ .
-
-<br/>
 
 **Languages, Frameworks and Tools:**<br/><br/>
 <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
