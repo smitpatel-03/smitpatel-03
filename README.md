@@ -1,4 +1,4 @@
-<img src="gif.gif" alt="Code GIF" align="center" width="400px" height="360px" style="margin-left: 10px">
+<img src="coding.gif" alt="Code GIF" align="center" width="400px" height="360px" style="margin-left: 10px">
 
 - Hey, I am Smit Patel, an intermediate developer searching new project and an intership. I know that is usual that someone is asking for the work but i do every work with my heart and with perfection.
 - Some people love the coding but i am passionate about the coding you know after some time love can be decrease but passion never.
