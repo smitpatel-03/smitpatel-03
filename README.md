@@ -1,9 +1,9 @@
 <img src="coding.gif" alt="Code GIF" align="center" width="400px" height="360px" style="margin-left: 10px">
 
-- Hey, I am Smit Patel, an intermediate developer searching new project and an intership. I know that is usual that someone is asking for the work but i do every work with my heart and with perfection.
-- Some people love the coding but i am passionate about the coding you know after some time love can be decrease but passion never.
+- Hey, I am Smit Patel, an MERN stack developer, I do every work with my heart and with perfection.
+- Some people love the coding but i am passionate about the coding you know after some time love can be decrease but passion "Never".
 
-  Talking about my other hobbies, I love Working Out by my self 🏋️, learing about new business and <strong>teaching </strong>.
+  Talking about my other hobbies, I love Working Out by my self 🏋️, learing about new Technologies and <strong>Teaching </strong>.
 
 - Checkout my [LinkedIn](https://www.linkedin.com/in/smit-patel-0303/) 🖊️ .
 <br/>
@@ -28,6 +28,6 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 # Thank You
 
-#### Thanks for visiting my profile please inform me if you have some work then please inform me.
+#### Thanks for visiting my Profile.
 
 <br/><br/><br/>
