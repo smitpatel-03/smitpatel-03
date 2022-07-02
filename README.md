@@ -3,7 +3,7 @@
 - Hey, I am Smit Patel, an MERN stack developer, I do every work with my heart and with perfection.
 - Some people love the coding but i am passionate about the coding, you know what after some time love can be decrease but passion "Never".
 
-  Talking about my other hobbies, I love Working Out by my self 🏋️, learing about new Technologies and <strong>Teaching </strong>.
+  Talking about my other hobbies, I love Working Out by my self, learing about new Technologies and <strong>Teaching </strong>.
 
 - Checkout my [LinkedIn](https://www.linkedin.com/in/smit-patel-0303/) 🖊️ .
 <br/>
